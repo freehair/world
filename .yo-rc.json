@@ -1,0 +1,12 @@
+{
+  "generator-ng-fullstack": {
+    "username": "freehair",
+    "appName": "world",
+    "stack": "fullstack",
+    "server": "node",
+    "client": "ng2",
+    "transpilerServer": "babel",
+    "secure": true,
+    "differentStaticServer": false
+  }
+}
